@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/12/31 10:20:59。
+     1>项目“C:\Users\asus\documents\visual studio 2013\Projects\HASH\HASH\HASH.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Uic'ing HASH.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_HASH.cpp HASH.cpp main.cpp
+         moc_HASH.cpp
+         HASH.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\documents\visual studio 2013\Projects\HASH\x64\Release\\HASH.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.1\5.5\msvc2013_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus\documents\visual studio 2013\Projects\HASH\x64\Release\HASH.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\documents\visual studio 2013\Projects\HASH\x64\Release\HASH.lib" /MACHINE:X64 x64\Release\HASH.res
+         x64\Release\qrc_HASH.obj
+         x64\Release\moc_HASH.obj
+         x64\Release\HASH.obj
+         x64\Release\main.obj
+         x64\Release\md5.obj
+         x64\Release\md5.obj
+         x64\Release\sha1.obj
+     1>x64\Release\md5.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         HASH.vcxproj -> C:\Users\asus\documents\visual studio 2013\Projects\HASH\x64\Release\HASH.exe
+     1>已完成生成项目“C:\Users\asus\documents\visual studio 2013\Projects\HASH\HASH\HASH.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.57

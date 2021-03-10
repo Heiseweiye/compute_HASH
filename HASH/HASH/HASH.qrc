@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/HASH">
+        <file>Resources/images/computeMD5.png</file>
+        <file>Resources/images/computeSHA1.png</file>
+        <file>Resources/images/hash.ico</file>
+        <file>Resources/images/shuicai.jpg</file>
+        <file>Resources/images/shuimo.jpg</file>
+        <file>Resources/images/tiankong.jpg</file>
+        <file>Resources/images/weimei.jpg</file>
+        <file>Resources/images/wuxia.jpg</file>
+        <file>Resources/images/xiaochuan.jpg</file>
+        <file>Resources/images/浅蓝.jpg</file>
+        <file>Resources/images/nanyou.jpg</file>
+        <file>Resources/images/1.jpg</file>
+    </qresource>
+</RCC>
